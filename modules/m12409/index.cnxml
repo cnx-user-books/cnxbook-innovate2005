@@ -1,0 +1,48 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Country Information</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>2dc220c6-d7ab-4b22-abe3-1f893101cae0</md:uuid>
+</metadata>
+
+  <content>
+    <para id="par.intro">
+       The following contains information about the countries we will visit during INNOVATE 2005: Singapore and Japan.
+    </para>   
+    <section id="sec.singapore">
+    <title>Singapore</title>
+      <para id="par.sing1">
+        <term>Background:</term> Singapore was founded as a British trading colony in 1819. It joined the Malaysian Federation in 1963 but separated two years later and became independent. It subsequently became one of the world's most prosperous countries with strong international trading links (its port is the world's busiest in terms of tonnage handled) and with per capita GDP equal to that of the leading nations of Western Europe.
+      </para>
+      <para id="par.sin1a">
+        Singapore, a highly developed and successful free market economy, enjoys a remarkably open and corruption-free environment, stable prices, and a high per capita GDP. The economy depends heavily on exports, particularly in electronics and manufacturing. It was hard hit in 2001-03 by the global recession and the slump in the technology sector. The government hopes to establish a new growth path that will be less vulnerable to the external business cycle but is unlikely to abandon efforts to establish Singapore as Southeast Asia's financial and high-tech hub. Fiscal stimulus, low interest rates, and global economic recovery should lead to much improved growth in 2004.
+      </para>
+      <para id="par.sin2">
+        <term>Population:</term>  4,353,893 (July 2004 est.)
+      </para>
+      <para id="par.sin3">
+        <term>Per Capita GDP:</term> $23,700 (2003 est.)
+      </para>
+      <para id="par.sin4">
+        <term>Further Information:</term> CIA World Fact Book entry for <link url="http://www.cia.gov/cia/publications/factbook/geos/sn.html">Singapore</link>
+      </para>
+    </section>
+    <section id="sec.japan">
+    <title>Japan</title>
+      <para id="par.jpn1">
+        <term>Background:</term> In 1603, a Tokugawa shogunate (military dictatorship) ushered in a long period of isolation from foreign influence in order to secure its power. For 250 years this policy enabled Japan to enjoy stablity and a flowering of its indigenous culture. Following the Treaty of Kanagawa with the United States in 1854, Japan opened its ports and began to intensively modernize and industrialize. During the late 19th and early 20th centuries, Japan became a regional power that was able to defeat the forces of both China and Russia. It occupied Korea, Formosa (Taiwan), and southern Sakhalin Island. In 1933 Manchuria was occupied and in 1937 a full-scale invasion of China was launched. Japan attacked US forces in 1941 - triggering America's entry into World War II - and soon occupied much of East and Southeast Asia. After its defeat in World War II, Japan recovered to become an economic power and a staunch ally of the US. While the emperor retains his throne as a symbol of national unity, actual power rests in networks of powerful politicians, bureaucrats, and business executives. The economy experienced a major slowdown starting in the 1990s following three decades of unprecedented growth. 
+      </para>
+      <para id="par.jpn1a">
+        Government-industry cooperation, a strong work ethic, mastery of high technology, and a comparatively small defense allocation (1% of GDP) helped Japan advance with extraordinary rapidity to the rank of second most technologically-powerful economy in the world after the US and third-largest economy after the US and China. One notable characteristic of the economy is the working together of manufacturers, suppliers, and distributors in closely-knit groups called keiretsu. A second basic feature has been the guarantee of lifetime employment for a substantial portion of the urban labor force. Both features are now eroding. Industry, the most important sector of the economy, is heavily dependent on imported raw materials and fuels. The much smaller agricultural sector is highly subsidized and protected, with crop yields among the highest in the world. Usually self-sufficient in rice, Japan must import about 50% of its requirements of other grain and fodder crops. Japan maintains one of the world's largest fishing fleets and accounts for nearly 15% of the global catch. For three decades overall real economic growth had been spectacular: a 10% average in the 1960s, a 5% average in the 1970s, and a 4% average in the 1980s. Growth slowed markedly in the 1990s, averaging just 1.7%, largely because of the after effects of overinvestment during the late 1980s and contractionary domestic policies intended to wring speculative excesses from the stock and real estate markets. Government efforts to revive economic growth have met with little success and were further hampered in 2000-2003 by the slowing of the US, European, and Asian economies. Japan's huge government debt, which is approaching 150% of GDP, and the ageing of the population are two major long-run problems. Robotics constitutes a key long-term economic strength with Japan possessing 410,000 of the world's 720,000 "working robots." Internal conflict over the proper way to reform the ailing banking system continues.
+      </para>
+      <para id="par.jpn2">
+        <term>Population:</term> 127,333,002 (July 2004 est.)
+      </para>
+      <para id="par.jpn3">
+        <term>Per Capita GDP:</term> $28,200 (2003 est.)
+      </para>
+      <para id="par.jpn4">
+        <term>Further Information:</term> CIA World Fact Book entry for <link url="http://www.cia.gov/cia/publications/factbook/geos/ja.html">Japan</link>
+      </para>
+    </section>
+  </content>
+  
+</document>

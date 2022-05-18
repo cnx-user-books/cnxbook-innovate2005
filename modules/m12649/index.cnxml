@@ -1,0 +1,65 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Company Profile Template</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>71cf97c2-6e5c-4d86-b07c-c389bb420067</md:uuid>
+</metadata>
+<content>
+<section id="id13212597">
+<title>Profile of (Company Name)</title>
+<para id="id13212605">Write a brief paragraph here that briefly
+describes the company, its history, the sector in which it
+operates, the products it makes, etc… Good sources of
+information to use are the company website, 
+<link url="http://www.wetfeet.com/">WetFeet</link>, 
+<link url="http://www.businessweek.com/">Businessweek</link>, and
+other financial web sites.</para>
+</section>
+<section id="id13214309">
+<title>Company Details</title>
+<section id="id13214316">
+<title>Location</title>
+<list list-type="bulleted" id="id13214324">
+<item>List the headquarters;</item>
+<item>And any major branch offices;</item>
+</list>
+</section>
+<section id="id13214342">
+<title>Financial Facts</title>
+<list list-type="bulleted" id="id13214350">
+<item>Most recent revenues;</item>
+<item>Most recent profits;</item>
+<item>Historical growth in revenues and profits (most recent 3-5
+years);</item>
+<item>How does the company compare to others in its sector?</item>
+</list>
+</section>
+<section id="id13198878">
+<title>Personnel</title>
+<list list-type="bulleted" id="id13198885">
+<item>How many employees does the company have?</item>
+</list>
+</section>
+</section>
+<section id="id13198898">
+<title>Questions</title>
+<para id="id13198906">Please research and discuss the
+following:</para>
+<section id="id13198910">
+<title>Competitiveness</title>
+<para id="id13198918">How does the company compare to its main
+competitors? Consider both domestic and local markets.</para>
+</section>
+<section id="id13198926">
+<title>Overcoming Obstacles</title>
+<para id="id13198933">What obstacles does the company face in its
+sector, and does the company have any innovative approaches to
+overcoming them.</para>
+</section>
+<section id="id13198942">
+<title>Leadership</title>
+<para id="id13198949">Research and describe a time in which the
+company faced a major crisis that threatened its business. How did
+the company address and overcome this situation?</para>
+</section>
+</section>
+</content>
+</document>
