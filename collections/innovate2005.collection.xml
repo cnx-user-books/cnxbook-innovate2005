@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Patrick Frantz ,Debbie Gulick ,Cheryl Matherly ,Stephanie Lin">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10244</md:content-id>
     <md:title>INNOVATE2005</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License</md:license>
     <md:uuid>21400cd0-6d1f-4c20-b1b4-5851cfee19f5</md:uuid>
-<md:slug>innovate2005</md:slug>
-</metadata>
+    <md:slug>innovate2005</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m12623"/>
     <col:module document="m12619"/>
